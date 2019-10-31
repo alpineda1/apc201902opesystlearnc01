@@ -20,7 +20,7 @@ int main() {
    printf("The area is %lf.\n", area);
    printf("The circumference is %lf.\n", circumference);
  
-   return 0;
+   return 1;
 }
 
 
